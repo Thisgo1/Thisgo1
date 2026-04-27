@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-stack web development<br>👯 I’m looking to collaborate on web site<br>🤝 I’m looking for help with Godot<br>🌱 I’m currently learning Godot, Kotlin<br><br>
+🔭 I’m currently working on Full-stack web development at TCU<br>👯 I’m looking for help with Godot<br>🌱 I’m currently learning Godot, Kotlin<br><br>
 
 
 # 💻 Tech Stack:
